@@ -48,7 +48,7 @@ p{
  margin: 10%;
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 580px) {
  main{
   width: 80vw;
  }
